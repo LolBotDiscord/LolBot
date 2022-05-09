@@ -1,0 +1,2 @@
+# LolBot
+Discord Bot
